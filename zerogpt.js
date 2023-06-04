@@ -5,7 +5,7 @@ const options = {
   url: 'https://zerogpt.p.rapidapi.com/api/v1/detectText',
   headers: {
     'content-type': 'application/json',
-    'X-RapidAPI-Key': '38e42b9145msh1525089f91a1970p13bb82jsne051cefd2d64',
+    'X-RapidAPI-Key': 'your-api-key-here',
     'X-RapidAPI-Host': 'zerogpt.p.rapidapi.com'
   },
   data: {

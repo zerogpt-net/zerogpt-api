@@ -15,7 +15,7 @@ curl_setopt_array($curl, [
   ]),
   CURLOPT_HTTPHEADER => [
     "X-RapidAPI-Host: zerogpt.p.rapidapi.com",
-    "X-RapidAPI-Key: 38e42b9145msh1525089f91a1970p13bb82jsne051cefd2d64",
+    "X-RapidAPI-Key: your-api-key-here",
     "content-type: application/json"
   ],
 ]);
